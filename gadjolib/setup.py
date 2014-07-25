@@ -30,5 +30,4 @@ setup(
         'Operating System :: OS Independent'
         ],
     license = 'License :: OSI Approved :: BSD License',
-    long_description=open('README.txt').read(-1)
 )
